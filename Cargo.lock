@@ -3,13 +3,33 @@
 version = 3
 
 [[package]]
-name = "day_1"
+name = "day_1_1"
 version = "0.1.0"
 
 [[package]]
-name = "day_2"
+name = "day_1_2"
 version = "0.1.0"
 
 [[package]]
-name = "day_3"
+name = "day_2_1"
+version = "0.1.0"
+
+[[package]]
+name = "day_2_2"
+version = "0.1.0"
+
+[[package]]
+name = "day_3_1"
+version = "0.1.0"
+
+[[package]]
+name = "day_3_2"
+version = "0.1.0"
+
+[[package]]
+name = "day_4_1"
+version = "0.1.0"
+
+[[package]]
+name = "day_4_2"
 version = "0.1.0"
