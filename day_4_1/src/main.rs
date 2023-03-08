@@ -14,7 +14,6 @@ fn main() {
                 )
             })
             .filter(|(a, b, c, d)| (a >= c && b <= d) || (c >= a && d <= b))
-            .collect::<Vec<_>>()
-            .len()
+            .count()
     );
 }

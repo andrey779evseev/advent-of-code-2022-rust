@@ -17,7 +17,6 @@ fn main() {
                 || (b >= c && b <= d)
                 || (c >= a && c <= b)
                 || (d >= a && d <= b))
-            .collect::<Vec<_>>()
-            .len()
+            .count()
     );
 }
